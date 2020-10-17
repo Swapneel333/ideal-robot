@@ -1,0 +1,80 @@
+      program_type  program_duration test_type difficulty_level gender  \
+0                Y               136   offline     intermediate      M   
+1                T               134   offline     intermediate      F   
+2                V               131   offline     intermediate      F   
+3                V               131   offline     intermediate      M   
+4                Y               136    online             easy      M   
+...            ...               ...       ...              ...    ...   
+21940            S               135   offline     intermediate      M   
+21941            T               134   offline     intermediate      F   
+21942            V               131   offline     intermediate      F   
+21943            Y               136    online             easy      M   
+21944            Y               135    online             easy      M   
+
+                 education  city_tier        age  total_programs_enrolled  \
+0            Matriculation          1  42.000000                        2   
+1            Matriculation          3  25.000000                        2   
+2      High School Diploma          3  24.000000                        3   
+3            Matriculation          3  35.093137                        4   
+4      High School Diploma          1  45.000000                        3   
+...                    ...        ...        ...                      ...   
+21940            Bachelors          1  39.000000                        2   
+21941            Bachelors          3  44.000000                        2   
+21942  High School Diploma          3  33.737166                        3   
+21943  High School Diploma          3  43.000000                        2   
+21944  High School Diploma          1  45.000000                        2   
+
+      is_handicapped  trainee_engagement_rating  is_pass  
+0                  Y                        3.0        0  
+1                  Y                        1.0        0  
+2                  N                        1.0        0  
+3                  N                        3.0        0  
+4                  N                        4.0        1  
+...              ...                        ...      ...  
+21940              N                        5.0        1  
+21941              Y                        3.0        1  
+21942              N                        3.0        1  
+21943              N                        5.0        1  
+21944              N                        3.0        1  
+
+[21945 rows x 12 columns]
+      program_type  program_duration test_type difficulty_level gender  \
+0                Y               136   offline     intermediate      M   
+1                T               134   offline     intermediate      F   
+2                V               131   offline     intermediate      F   
+3                V               131   offline     intermediate      M   
+4                Y               136    online             easy      M   
+...            ...               ...       ...              ...    ...   
+21940            S               135   offline     intermediate      M   
+21941            T               134   offline     intermediate      F   
+21942            V               131   offline     intermediate      F   
+21943            Y               136    online             easy      M   
+21944            Y               135    online             easy      M   
+
+                 education  city_tier        age  total_programs_enrolled  \
+0            Matriculation          1  42.000000                        2   
+1            Matriculation          3  25.000000                        2   
+2      High School Diploma          3  24.000000                        3   
+3            Matriculation          3  35.093137                        4   
+4      High School Diploma          1  45.000000                        3   
+...                    ...        ...        ...                      ...   
+21940            Bachelors          1  39.000000                        2   
+21941            Bachelors          3  44.000000                        2   
+21942  High School Diploma          3  33.737166                        3   
+21943  High School Diploma          3  43.000000                        2   
+21944  High School Diploma          1  45.000000                        2   
+
+      is_handicapped  trainee_engagement_rating  is_pass  
+0                  Y                        3.0        0  
+1                  Y                        1.0        0  
+2                  N                        1.0        0  
+3                  N                        3.0        0  
+4                  N                        4.0        1  
+...              ...                        ...      ...  
+21940              N                        5.0        1  
+21941              Y                        3.0        1  
+21942              N                        3.0        1  
+21943              N                        5.0        1  
+21944              N                        3.0        1  
+
+[21945 rows x 12 columns]
